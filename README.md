@@ -1,4 +1,4 @@
-### Una aplicacion creada con React para con un buscador para visualizar cualquier GIF
+### Una aplicacion creada con React con un buscador para visualizar cualquier GIF
 utilizando la API de GIPHY
 ### Prueba la app aqui:
 https://david7890.github.io/Gif-Expert-App/
